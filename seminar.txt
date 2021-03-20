@@ -3,7 +3,7 @@ I. Giới thiệu
 	2. Khái niệm
 	3. Đặc điểm nhận dạng
 	4. Cách giải quyết
-II. Một số bài toán đặc trưng sử dụng thuật toán tham lam (Huffman, Dijkstra, Prim)
+II. Một số bài toán đặc trưng sử dụng thuật toán tham lam (Huffman, Activity-Selection, Prim)
 - Các bước làm.
 - Ứng dụng thuật toán đó vào bài toán cụ thể.
 - Đánh giá độ phức tạp khi áp dụng thuật toán tham lam vào.
